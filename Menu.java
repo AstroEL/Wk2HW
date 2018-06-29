@@ -1,5 +1,11 @@
 package menu;
 
+/* Leiland Tanner
+ Promineo wk 2 Homework - Coding Portion:
+ Create a menu driven application with at least 4 options in addition to the exit option. 
+ Each option should do something unique and include some conditionals (boolean logic) 
+*/
+
 import java.util.Scanner;
 
 public class Menu {
